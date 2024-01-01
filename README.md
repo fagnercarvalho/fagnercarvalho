@@ -20,5 +20,7 @@ I have a IOT setup at home that runs:
 For more details on this setup please check the following repositories:
 - https://github.com/fagnercarvalho/ha-influx-grafana
 - https://github.com/fagnercarvalho/docker-rtl-433-mqtt
+- https://github.com/fagnercarvalho/dnsmasq-nginx
+- Home Assistant + Mosquitto as the MQTT broker (private repository)
 
 Also, feel free to look at my public repositories, although I do the vast majority of my work with proprietary code I do some experiments/cool (?) stuff in public too. 🙂
