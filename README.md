@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Fagner and I have more 14+ years of experience in Tech, having worked in companies of all sizes in different technologies (Go, C#, JavaScript, Java).
+I'm Fagner and I have more 14+ years of experience in Tech, having worked with a diverse range of technologies, including Go, .NET Core, JavaScript, and Java and involved daily with development and deployment of applications in production.
 
 Most important projects I worked in the past:
 - A payment gateway responsible for over 25 million dollars in transactions for customers in the US.
